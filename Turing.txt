@@ -1,0 +1,7 @@
+q0
+q3 
+q0 a b R q0
+q0 B c L q1
+q1 b c L q2
+q2 b c L q2
+q2 B B R q3
